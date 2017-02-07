@@ -4,7 +4,4 @@
  
  -A Tale for the Time Being, Ruth Ozeki
 
-
-
-
-# With Happy Moment, click to generate a random quote about happiness. Spend one of the 6,400,099,980 moments of your day being happy.
+<b>With Happy Moment, click to generate a random quote about happiness. Spend one of the 6,400,099,980 moments of your day being happy.</b>
