@@ -1,0 +1,21 @@
+@font-face {
+  font-family: Pecita; src: url('pecita/Pecita.otf');
+}
+
+@font-face {
+  font-family: DosisLight; src: url('dosis/Dosis-Light.otf');
+}
+
+h1 {
+  font-family: Pecita, sans-serif;
+  font-size: 40px;
+  color: #FC6D42;
+}
+
+p {
+  font-family: DosisLight, sans-serif;
+  text-align: center;
+  font-size: 40px;
+  left: 50px;
+  top: 50px;
+}
